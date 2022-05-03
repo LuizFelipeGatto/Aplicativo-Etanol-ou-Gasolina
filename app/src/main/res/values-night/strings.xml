@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_title">Etanol ou Gasolina</string>
+    <string name="etanol_value_hint">Digite preço do etanol, exemplo: 5.68</string>
+    <string name="gas_value_hint">Digite preço da gasolina, exemplo: 7.68</string>
+    <string name="button_calculate_text">Calcular</string>
+</resources>
