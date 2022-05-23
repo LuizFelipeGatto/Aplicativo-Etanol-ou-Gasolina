@@ -54,7 +54,8 @@
             android:id="@+id/imputEditTextEthanolValueId"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/etanol_value_hint" />
+            android:hint="@string/etanol_value_hint"
+            android:inputType="numberDecimal" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
@@ -72,7 +73,8 @@
             android:id="@+id/imputEditTextGasValueId"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/gas_value_hint" />
+            android:hint="@string/gas_value_hint"
+            android:inputType="numberDecimal" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <Button
